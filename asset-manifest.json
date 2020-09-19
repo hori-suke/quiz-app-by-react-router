@@ -5,17 +5,17 @@
     "main.js.map": "/quiz-app-by-react-router/static/js/main.a02ea446.chunk.js.map",
     "runtime-main.js": "/quiz-app-by-react-router/static/js/runtime-main.d01cd162.js",
     "runtime-main.js.map": "/quiz-app-by-react-router/static/js/runtime-main.d01cd162.js.map",
-    "static/js/2.067d290e.chunk.js": "/quiz-app-by-react-router/static/js/2.067d290e.chunk.js",
-    "static/js/2.067d290e.chunk.js.map": "/quiz-app-by-react-router/static/js/2.067d290e.chunk.js.map",
+    "static/js/2.72638165.chunk.js": "/quiz-app-by-react-router/static/js/2.72638165.chunk.js",
+    "static/js/2.72638165.chunk.js.map": "/quiz-app-by-react-router/static/js/2.72638165.chunk.js.map",
     "index.html": "/quiz-app-by-react-router/index.html",
-    "precache-manifest.260e75c3dae6faf36a0ac2bc15f6d9f8.js": "/quiz-app-by-react-router/precache-manifest.260e75c3dae6faf36a0ac2bc15f6d9f8.js",
+    "precache-manifest.5187801215dbe2ea4d5ddffd3520cf26.js": "/quiz-app-by-react-router/precache-manifest.5187801215dbe2ea4d5ddffd3520cf26.js",
     "service-worker.js": "/quiz-app-by-react-router/service-worker.js",
     "static/css/main.19d9d79d.chunk.css.map": "/quiz-app-by-react-router/static/css/main.19d9d79d.chunk.css.map",
-    "static/js/2.067d290e.chunk.js.LICENSE.txt": "/quiz-app-by-react-router/static/js/2.067d290e.chunk.js.LICENSE.txt"
+    "static/js/2.72638165.chunk.js.LICENSE.txt": "/quiz-app-by-react-router/static/js/2.72638165.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d01cd162.js",
-    "static/js/2.067d290e.chunk.js",
+    "static/js/2.72638165.chunk.js",
     "static/css/main.19d9d79d.chunk.css",
     "static/js/main.a02ea446.chunk.js"
   ]
